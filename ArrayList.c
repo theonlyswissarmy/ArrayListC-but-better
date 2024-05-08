@@ -12,7 +12,7 @@
  * @param n Maximum capacity of the array list.
  * @return Pointer to the array list.
  */
-ArrayList* ArrayCreate(int n)
+ArrayList* ArrayCreate(char* datat ,int n)
 {
     ArrayList* list = malloc(sizeof(int) * n);
     list->size = n;
