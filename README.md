@@ -2,6 +2,8 @@
 
 This is a simple implementation of an ArrayList in C using a struct, a pointer to the struct and a pointer to the array. The array is static and the size of the array is defined when the ArrayList is created.
 
+This is cool. This is fine. This isn't really what an arraylist is though. Just as a little exercise I'm going to try and make this template into a proper arraylist
+
 ## Functions
 
 - `ArrayList* ArrayCreate(int n)`: Creates an ArrayList with a size of n.
